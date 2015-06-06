@@ -17,7 +17,7 @@ Allows easy creation, comparison and exporting of process tracing data.  Can als
     <copyright>Nektra Advanced Computing</copyright>
     <licenseUrl>http://www.nektra.com/products/spystudio-api-monitor/</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>http://www.nektra.com/static/media/uploads/box_spystudio.jpg</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/spystudio/master/spystudio.png</iconUrl>
     <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
