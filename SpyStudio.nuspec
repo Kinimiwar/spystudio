@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
-    <id>nektraspystudio</id>
-    <title>NektraSpyStudio</title>
+    <id>spystudio</id>
+    <title>SpyStudio</title>
     <version>2.9.1.0</version>
     <authors>Nektra Advanced Computing</authors>
     <owners>Darwin Sanoy (CSI-Windows.com)</owners>
